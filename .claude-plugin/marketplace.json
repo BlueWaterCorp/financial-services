@@ -123,7 +123,7 @@
         "source": "git-subdir",
         "url": "BlueWaterCorp/riskmodels-plugin",
         "path": "plugins/riskmodels",
-        "sha": "d516b6239fd2ca1ae5fbebba9c49f28686403e47"
+        "sha": "0bd7b934095754ffc04c479b653654cfb985ab88"
       },
       "homepage": "https://riskmodels.app"
     },
